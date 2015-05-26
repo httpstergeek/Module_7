@@ -39,4 +39,4 @@ Feel free to add onto this structure if desired. The listed files are the base r
 
 This assignment is due by Saturday, May 30th by 7pm. Once grading has been completed, a :+1: comment will be added to the pull request and the pull request will be closed.
 
-__[project_structure](https://github.com/httpstergeek/food-trucks)__
+__[food-truck project](https://github.com/httpstergeek/food-trucks)__
